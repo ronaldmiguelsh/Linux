@@ -9,9 +9,11 @@
 ## Eliminar archivos y directorios
 - rm -rf
 
+
+## Listar los archivos y carpetas
 ls -lhtra
 
-## onde:
+## Donde:
 - ls -> Lista los directorios .
 - l -> Ver detalle de los directorios y archivos.
 - h -> Ver el peso de los archivos de una manera entendible.
