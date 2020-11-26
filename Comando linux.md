@@ -10,3 +10,4 @@ ls -lhtra
 - t -> Ordenados por la fecha de edición (por defecto esta de la manera acendente)
 - r -> Listar de manera desendente.
 - a -> Visualizar los archivos ocultos
+
