@@ -26,7 +26,7 @@ ls -lhtra
 - touch
 
 ### Mover archivos o carpetas
-- mv (mover, renombrar)
+- mv (mover, renombrar) no modifica los permisos del archivo original
 
 ### Comando de espacio para particiones
  - df -h
@@ -46,6 +46,8 @@ ls -lhtra
  
  ### Copiar archivos
  - cp archivo.txt archivo2.txt
+ - cp archivo.txt archivo2.txt carpera_copy
+ - Los permisos toman del usuario que está ejecutando el comando.
  
  ### Copiar directorios
  - cp -r carpera carpera_copy (Es necesario que se indique -r)
